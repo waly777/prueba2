@@ -6,3 +6,4 @@ haciendo 5ta prueba
 en la rama master
 haciendo 6ta prueba
 haciendo 7ma prueba
+creando una modificacion para la rama fix-typo
